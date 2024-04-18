@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m have worked on multiple machine/deep learning projects including a Personalized disease prediction system as well as an Epiletic seizure classification system based on EEG data
+- 🌱 I’m currently learning various ways in which we can make our life easier with Artificial intelligence and Machine learning
+- 👯 I’m looking to collaborate/contibute on AIML | Data science projects 
+
 <!--
 **Rioichi03/Rioichi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
